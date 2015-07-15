@@ -1,1 +1,1 @@
-a project of android qqtang game. It use the MVC design technique.
+a project of android qqtang game. It use the MVC design technique.  It use TCP as the internet protocal.
