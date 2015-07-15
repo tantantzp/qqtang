@@ -1,1 +1,1 @@
-a project of android qqtang game.
+a project of android qqtang game. It use the MVC design technique.
